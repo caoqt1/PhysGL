@@ -1,0 +1,6 @@
+charWidth "6"
+charHeight "8"
+
+mat 0 "fonts/bankgothic_sm.tga"
+mat 2 "fonts/bankgothic_med.tga"
+mat 3 "fonts/bankgothic_lg.tga"
